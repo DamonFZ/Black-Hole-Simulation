@@ -25,18 +25,7 @@
 
 ## 🚀 运行方式
 
-直接在浏览器中打开 `black.html` 文件即可运行：
-
-```bash
-open black.html
-```
-
-或使用本地服务器：
-
-```bash
-python -m http.server 8000
-# 然后访问 http://localhost:8000/black.html
-```
+直接在浏览器中打开 `black.html` 文件即可运行。
 
 ## 🛠️ 技术栈
 
